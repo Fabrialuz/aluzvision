@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",ALUZ TV
 https://r2---sn-npoe7nl6.googlevideo.com/videoplayback?expire=1630078906&ei=WrMoYdeUOIakz7sPgOe_8A4&ip=185.245.38.200&id=o-ALocnInq0oHJi2E2xCGAZvbFwe69YF1olwS6cmSXiSRg&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=C8l3nDparivtINF8qrFysyUG&gir=yes&clen=2186013&ratebypass=yes&dur=27.353&lmt=1630057269213752&fexp=24001373,24007246&c=WEB&txp=6210222&n=9OwW8s6rG20nHsRfESEH&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgXIXSFxRFBYRoNmHX4paphLv6lyWKAtZ2FYBGenD3nh4CIHHyAANbWPEdhBnISAC5CJQQfbUQKqNJhP5RseK7uyg5&rm=sn-4pvgq-n8v67l&req_id=62a396e6802aa3ee&redirect_counter=2&cm2rm=sn-n8vkk7y&cms_redirect=yes&mh=mz&mip=36.90.55.15&mm=34&mn=sn-npoe7nl6&ms=ltu&mt=1630056991&mv=m&mvi=2&pl=22&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgJFitVr4UARPqP1eecUk_NkfPzmw0uY44D9RewMz9i4ACIGhD1fjvNWlZJMIFv8QD327FvMAAEk1vIY4WQq0U
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",GTV
