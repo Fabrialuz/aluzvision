@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",ALUZ TV
-https://r2---sn-npoe7nl6.googlevideo.com/videoplayback?expire=1630078906&ei=WrMoYdeUOIakz7sPgOe_8A4&ip=185.245.38.200&id=o-ALocnInq0oHJi2E2xCGAZvbFwe69YF1olwS6cmSXiSRg&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=C8l3nDparivtINF8qrFysyUG&gir=yes&clen=2186013&ratebypass=yes&dur=27.353&lmt=1630057269213752&fexp=24001373,24007246&c=WEB&txp=6210222&n=9OwW8s6rG20nHsRfESEH&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgXIXSFxRFBYRoNmHX4paphLv6lyWKAtZ2FYBGenD3nh4CIHHyAANbWPEdhBnISAC5CJQQfbUQKqNJhP5RseK7uyg5&rm=sn-4pvgq-n8v67l&req_id=62a396e6802aa3ee&redirect_counter=2&cm2rm=sn-n8vkk7y&cms_redirect=yes&mh=mz&mip=36.90.55.15&mm=34&mn=sn-npoe7nl6&ms=ltu&mt=1630056991&mv=m&mvi=2&pl=22&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgJFitVr4UARPqP1eecUk_NkfPzmw0uY44D9RewMz9i4ACIGhD1fjvNWlZJMIFv8QD327FvMAAEk1vIY4WQq0UBBWP
+https://r2---sn-npoe7nl6.googlevideo.com/videoplayback?expire=1630222601&ei=qeQqYavtJ7uB3LUPz-2yyAY&ip=158.255.27.58&id=o-AP-Lr8hB40xXUSPwWL1f-tDlNfvXKsKeyHzSjAULzZ97&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=VIJgmfS_RuNF9Vu_qs-PincG&gir=yes&clen=2186013&ratebypass=yes&dur=27.353&lmt=1630057269213752&fexp=24001373,24007246&c=WEB&txp=6210222&n=fj0gyBDuigU9uZrq&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgSJlS94IRNQhYWkXGpP1uZwiYgCXMZtdzxASb8omJLEsCIH2UX593BCTd1bGr5FMaaU1mv3IR5Z_SXzDR8ViOyoXL&rm=sn-vg5obxn3-cunz7l&req_id=8af7b7ca1653a3ee&redirect_counter=2&cm2rm=sn-2gbek7l&cms_redirect=yes&mh=mz&mip=36.90.55.15&mm=34&mn=sn-npoe7nl6&ms=ltu&mt=1630200754&mv=m&mvi=2&pl=22&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgQR50DL4kwyoc0QaiH01c2vyDdPSt0jdYoQVRuGRzLJMCIANgwfleWDglQij6bBIHDIS_L90GGxuVF5IeamoL74a2
+
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",GTV
@@ -13,6 +15,10 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w487287366_b544100_s
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1669850941_b544100_sleng.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INEWS
+https://list.iptvcat.com/my_list/s/c611ef07f5eaeec44bb059c9d6bd9b64.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",BERITA SATU
+https://list.iptvcat.com/my_list/s/e58d330a0ef204f6d49b71dce7b4d3a2.m3u8
 ======SPORT SD======
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ALUZ SPORTS 1 SD
 http://11.yaciaptk.xyz/live/88824257/index.m3u8
@@ -43,3 +49,33 @@ http://55.abdakaroukhai.xyz/live/131326625/index.m3u8
 http://55.abdakaroukhai.xyz/live/181818444/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",BEIN SPORTS 6
 http://55.abdakaroukhai.xyz/live/9883322/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",ABU DHABI SPORTS 1
+https://list.iptvcat.com/my_list/s/5791f7eca605a181392d4c5c75a12235.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",ABU DHABI SPORTS 2
+https://list.iptvcat.com/my_list/s/35e9a69bbda95a85a296723e5354ab4c.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",ABU DHABI SPORTS NEWS
+https://list.iptvcat.com/my_list/s/cec54d441e4041f223eeead89e016f52.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",FOX SPORTS 1
+https://list.iptvcat.com/my_list/s/56c6c5e4236f036f45e77928318cdb98.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",FOX SPORTS 2
+https://list.iptvcat.com/my_list/s/6ac01998e1f7fbd583a573297b40493c.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",HBO PLUS
+https://list.iptvcat.com/my_list/s/3e1b7779c8ae19351dbaa2b4d57c6021.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",HBO FAMILY
+https://list.iptvcat.com/my_list/s/160290e771a2f5b57fccd9d7fd64722c.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",HBO 1 SD
+https://list.iptvcat.com/my_list/s/42cb42d9a2966bc5c54b9e1ed94fd80f.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",HBO PREMIUM
+https://list.iptvcat.com/my_list/s/f11edecca3cfe5a5acbcc2be3d11e194.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",FOX MOVIE
+https://list.iptvcat.com/my_list/s/2a03afc085c8a9332736b86b5a61059a.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="CARTOON",CARTOON NETWORK
+https://list.iptvcat.com/my_list/s/051620b8550cc8c7da038fdf340713fa.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="CARTOON",CARTOON NETWORK 2
+https://list.iptvcat.com/my_list/s/5deca85bbdfda00d6b3d4ecb9c533e07.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="CARTOON",DISNEY
+https://list.iptvcat.com/my_list/s/35cf6204f26596e3b690ea2853668b5b.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="CARTOON",DISNEY JUNIOR
+https://list.iptvcat.com/my_list/s/229226d46065af20be8ef2660b8a244d.m3u8
+
+
