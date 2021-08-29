@@ -16,9 +16,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1669850941_b544100_sl
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INEWS
-https://list.iptvcat.com/my_list/s/c611ef07f5eaeec44bb059c9d6bd9b64.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",BERITA SATU
-https://list.iptvcat.com/my_list/s/e58d330a0ef204f6d49b71dce7b4d3a2.m3u8
+https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8
 ======SPORT SD======
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ALUZ SPORTS 1 SD
 http://11.yaciaptk.xyz/live/88824257/index.m3u8
