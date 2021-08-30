@@ -48,13 +48,13 @@ http://55.abdakaroukhai.xyz/live/181818444/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",BEIN SPORTS 6
 http://55.abdakaroukhai.xyz/live/9883322/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",ABU DHABI SPORTS 1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",ABU DHABI SPORTS 2
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",ABU DHABI SPORTS NEWS
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",FOX SPORTS 1
-http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/732
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",FOX SPORTS 2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",FOX SPORTS NEWS
