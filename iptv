@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",ALUZ VISION
 https://ia601508.us.archive.org/9/items/epl1_20210908/Tak%20berjudul%2070_540p.mp4
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",ALUZ SPORTS HD
+http://19.yaciaptk.xyz/live/6161655/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ALUZ SPORTS 1
 http://11.yaciaptk.xyz/live/88824257/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ALUZ SPORTS 2
