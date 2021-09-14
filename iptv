@@ -9,18 +9,14 @@ http://11.yaciaptk.xyz/live/88824257/index.m3u8
 http://1.yaciaptk.xyz/live/79481245/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",ALUZ TV 3 SD
 http://5.yaciaptk.xyz/live/17988558/index.m3u8
-
 #######ALUZ VISION######
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",PREMIER LEAGUE 1 144P  
 http://15.yaciaptk.xyz/live/97848484/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",PREMIER LEAGUE 2 144P  
 http://55.1-bour.xyz/live/122233888/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",PREMIER LEAGUE 3 144P
 http://14.yaciaptk.xyz/live/819797877/index.m3u8
-
 ######NASIONAL#######
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",SCTV
@@ -49,9 +45,11 @@ https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-D
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",METRO TV
 https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",KOMPAS TV
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #######SPORTS########
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ABU DHABI SPORTS 2
@@ -86,9 +84,7 @@ http://yassooo.com:8080/benAlaa/829293992/80027
 http://yassooo.com:8080/benAlaa/829293992/80026
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS HD",BEIN SPORTS 7 HD
 http://yassooo.com:8080/benAlaa/829293992/80025
-
 ######PENGETAHUAN########
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="PENGETAHUAN",OUTDOOR CHANNEL
 https://outdoorchannel-samsungau.amagi.tv/playlist360p.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="PENGETAHUAN",NATGEO GRAPHIC CHANNEL
@@ -104,9 +100,7 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="PENGETAHUAN",TES 7
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="PENGETAHUAN",TES 8
-
 ######VISION#######
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",HBO
 https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",FOX
@@ -116,9 +110,7 @@ http://hypnotic-hosting.net:8080/Charlie/Charlie/166238
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",HBO FAMILY
 https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",FOX 
-
 ######CARTOON######
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="CARTOON",DISNEY
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="CARTOON",SPACETOON
