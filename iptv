@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",ALUZ VISION
 https://ia601508.us.archive.org/9/items/epl1_20210908/Tak%20berjudul%2070_540p.mp4
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",ALUZ SPORTS HD
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",ALUZTV HD
 http://19.yaciaptk.xyz/live/6161655/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ALUZ SPORTS 1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ALUZTV 1
 http://11.yaciaptk.xyz/live/88824257/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ALUZ SPORTS 2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ALUZTV 2
 http://1.yaciaptk.xyz/live/79481245/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ALUZ SPORTS 3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ALUZTV 3
 http://5.yaciaptk.xyz/live/17988558/index.m3u8
 
 ######NASIONAL#######
@@ -43,46 +43,69 @@ https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.
 
 #######SPORTS########
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",CHAMPIONS TV 1 
-http://foctv.xyz:25510/Zulhairie/BB2064/157
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",CHAMPIONS TV 2  
-http://foctv.xyz:25510/Zulhairie/BB2064/158
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",USEE SPORTS 1
-https://vcdnjt.useetv.com/dass/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",USEE SPORTS 2
-https://vcdnjt.useetv.com/dass/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",ALUZ SPORTS 1 144P  
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ASTRO SPORTS",ASTRO SUPER SPORTS 1
+https://lb.serverkenceng.net/stream/assp1/playlist.m3u8?asn=7713&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIxIDE6MDI6MTAgQU0maGFzaF92YWx1ZT0rUnRyMGFEV0FtNlA3NEIyMUo4NFh3PT0maWQ9NHk0NWR8N2I1OGY3MDA1NjUyNGU5MzkwN2NjMGMxNGI5YTE2ZTAmdmFsaWRtaW51dGVzPTE0NDA=&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjdiNThmNzAwNTY1MjRlOTM5MDdjYzBjMTRiOWExNmUwIiwiY291bnRyeSI6IklEIiwidG9rZW4iOiI0eTQ1ZCIsIm1heF9kZXZpY2VzIjo0LCJpcCI6IjM2LjkwLjU1Ljg3Iiwic3RyZWFtX25hbWUiOiJhc3NwMSIsInN0cmVhbSI6IkxJVkUgIzEiLCJ0eXBlIjoiZW5kdXNlciIsInVhIjoiRGFsdmlrLzIuMS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMTsgUmVkbWkgTm90ZSAzIE1JVUkvVjEwLjIuMS4wLk1IT01JWE0pIiwiYXNuIjoiNzcxMyIsImFzbl9vcmciOiJQVCBUZWxla29tdW5pa2FzaSBJbmRvbmVzaWEiLCJpYXQiOjE2MzE1ODEzMzAsImV4cCI6MTYzMTU4MTQ1MH0.5NAIDulDDdDzNUOZus2gQ3IeY0jCQqdVctZBevWHOXc
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ASTRO SPORTS",ASTRO SUPER SPORTS 2
+https://lb.serverkenceng.net/stream/assp2/playlist.m3u8?asn=7713&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIxIDE6MDI6MjMgQU0maGFzaF92YWx1ZT1mUyswVEl0TEU3aTJzSmZYSkluNGtRPT0maWQ9NHk0NWR8MTUxOGEyMDYzOWRhNGFlOGJiMmU5YmZiMzczOWFkNDAmdmFsaWRtaW51dGVzPTE0NDA=&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE1MThhMjA2MzlkYTRhZThiYjJlOWJmYjM3MzlhZDQwIiwiY291bnRyeSI6IklEIiwidG9rZW4iOiI0eTQ1ZCIsIm1heF9kZXZpY2VzIjo0LCJpcCI6IjM2LjkwLjU1Ljg3Iiwic3RyZWFtX25hbWUiOiJhc3NwMiIsInN0cmVhbSI6IkxJVkUgIzIiLCJ0eXBlIjoiZW5kdXNlciIsInVhIjoiRGFsdmlrLzIuMS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMTsgUmVkbWkgTm90ZSAzIE1JVUkvVjEwLjIuMS4wLk1IT01JWE0pIiwiYXNuIjoiNzcxMyIsImFzbl9vcmciOiJQVCBUZWxla29tdW5pa2FzaSBJbmRvbmVzaWEiLCJpYXQiOjE2MzE1ODEzNDMsImV4cCI6MTYzMTU4MTQ2M30.MG5dEh9HQduxsIZyrg_KLmu4RwbDNrkj5gomoPPZLkA
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ASTRO SPORTS",ASTRO SUPER SPORTS 3
+https://lb.serverkenceng.net/stream/assp3/playlist.m3u8?asn=7713&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIxIDE6MDI6MzEgQU0maGFzaF92YWx1ZT1QKzd4eUdiSnF5cm43OVdFOVIwZm5RPT0maWQ9NHk0NWR8MzY0ZjNmNjliMDdhNDIzZTg5ZDY3ZGMxNjY5NjAwMTYmdmFsaWRtaW51dGVzPTE0NDA=&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjM2NGYzZjY5YjA3YTQyM2U4OWQ2N2RjMTY2OTYwMDE2IiwiY291bnRyeSI6IklEIiwidG9rZW4iOiI0eTQ1ZCIsIm1heF9kZXZpY2VzIjo0LCJpcCI6IjM2LjkwLjU1Ljg3Iiwic3RyZWFtX25hbWUiOiJhc3NwMyIsInN0cmVhbSI6IkxJVkUgIzMiLCJ0eXBlIjoiZW5kdXNlciIsInVhIjoiRGFsdmlrLzIuMS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMTsgUmVkbWkgTm90ZSAzIE1JVUkvVjEwLjIuMS4wLk1IT01JWE0pIiwiYXNuIjoiNzcxMyIsImFzbl9vcmciOiJQVCBUZWxla29tdW5pa2FzaSBJbmRvbmVzaWEiLCJpYXQiOjE2MzE1ODEzNTEsImV4cCI6MTYzMTU4MTQ3MX0.BmnrOQqKXmUXaHYwH_DeCXb_gwoPp4hqHuJNvcmoFms
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ASTRO SPORTS",ASTRO SUPER SPORTS 4
+https://lb.serverkenceng.net/stream/assp4/chunks.m3u8?nimblesessionid=2359457&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIxIDE6MDI6MzkgQU0maGFzaF92YWx1ZT1hb2trUG5oSFo5T2VLZ3hpbEVkNDdBPT0maWQ9NHk0NWR8ZDZkMTM1YmVlNTkyNGQzZWIyZTE4OTQ2N2FiMGMyNTMmdmFsaWRtaW51dGVzPTE0NDA=&asn=7713&lb=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxMzJmNjJiZThlY2EwOWRhNGU1ZmNkZCIsImRvbWFpbiI6ImVkZ2UxLnNlcnZlcmtlbmNlbmcubmV0IiwiaXAiOiIxMDAuMTAxLjIzOC4xNCIsInBvcnQiOiI4MDgxIiwib3JpZ2luX2lwIjoiMzYuOTAuNTUuODciLCJpYXQiOjE2MzE1ODEzNTksImV4cCI6MTYzMTY2Nzc1OX0.8ZN-NOqiljrem5QINjONxrXZkStFVjJv9ZpkNozBQvw&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQ2ZDEzNWJlZTU5MjRkM2ViMmUxODk0NjdhYjBjMjUzIiwiY291bnRyeSI6IklEIiwidG9rZW4iOiI0eTQ1ZCIsIm1heF9kZXZpY2VzIjo0LCJpcCI6IjM2LjkwLjU1Ljg3Iiwic3RyZWFtX25hbWUiOiJhc3NwNCIsInN0cmVhbSI6IkxJVkUgIzQiLCJ0eXBlIjoiZW5kdXNlciIsInVhIjoiRGFsdmlrLzIuMS4wIChMaW51eDsgVTsgQW5kcm9pZCA2LjAuMTsgUmVkbWkgTm90ZSAzIE1JVUkvVjEwLjIuMS4wLk1IT01JWE0pIiwiYXNuIjoiNzcxMyIsImFzbl9vcmciOiJQVCBUZWxla29tdW5pa2FzaSBJbmRvbmVzaWEiLCJpYXQiOjE2MzE1ODEzNTksImV4cCI6MTYzMTU4MTQ3OX0.C_z99mUbziEj0X9Pb2k0V7Jzjlh7n1CR_fQPt7X6KOw
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="USEE SPORTS",USEE SPORTS 1
+https://lb.serverkenceng.net/stream/useesport1/chunks.m3u8?nimblesessionid=2358066&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIxIDEyOjU0OjUwIEFNJmhhc2hfdmFsdWU9Z1pLTzNEM0dRdU0zNkxEMHFRZzhkZz09JmlkPTR5NDVkfDI5ZGVlODI3YmMzZjRkN2FiZWI5ZGQzMzkzOWI4Mzk5JnZhbGlkbWludXRlcz0xNDQw&asn=7713&lb=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxMzJmNjJiZThlY2EwOWRhNGU1ZmNkZCIsImRvbWFpbiI6ImVkZ2UxLnNlcnZlcmtlbmNlbmcubmV0IiwiaXAiOiIxMDAuMTAxLjIzOC4xNCIsInBvcnQiOiI4MDgxIiwib3JpZ2luX2lwIjoiMzYuOTAuNTUuODciLCJpYXQiOjE2MzE1ODA4OTIsImV4cCI6MTYzMTY2NzI5Mn0.IS1-YNscGM31B4tINUm4N-8AtURQzHmq1Gl40xl2KpI&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjI5ZGVlODI3YmMzZjRkN2FiZWI5ZGQzMzkzOWI4Mzk5IiwiY291bnRyeSI6IklEIiwidG9rZW4iOiI0eTQ1ZCIsIm1heF9kZXZpY2VzIjo0LCJpcCI6IjM2LjkwLjU1Ljg3Iiwic3RyZWFtX25hbWUiOiJ1c2Vlc3BvcnQxIiwic3RyZWFtIjoiVXNlZXNwb3J0cyAxIiwidHlwZSI6ImVuZHVzZXIiLCJ1YSI6IkRhbHZpay8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgNi4wLjE7IFJlZG1pIE5vdGUgMyBNSVVJL1YxMC4yLjEuMC5NSE9NSVhNKSIsImFzbiI6Ijc3MTMiLCJhc25fb3JnIjoiUFQgVGVsZWtvbXVuaWthc2kgSW5kb25lc2lhIiwiaWF0IjoxNjMxNTgwODkwLCJleHAiOjE2MzE1ODEwMTB9.RM7pJKsJu96eNWlp_5B4FXS0e-5wnobDJmC5kItvMys
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="USEE SPORTS",USEE SPORTS 2
+https://lb.serverkenceng.net/stream/useesport2/chunks.m3u8?nimblesessionid=2358124&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIxIDEyOjU1OjA5IEFNJmhhc2hfdmFsdWU9L0JGWXdKMkR0V2g4Q3FnL3htb0pFdz09JmlkPTR5NDVkfDRmZTViM2ViMzFjMzQ4ZTU4OTYzZTQ0Y2QyMDE5MTY2JnZhbGlkbWludXRlcz0xNDQw&asn=7713&lb=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxMzJmNjJiZThlY2EwOWRhNGU1ZmNkZCIsImRvbWFpbiI6ImVkZ2UxLnNlcnZlcmtlbmNlbmcubmV0IiwiaXAiOiIxMDAuMTAxLjIzOC4xNCIsInBvcnQiOiI4MDgxIiwib3JpZ2luX2lwIjoiMzYuOTAuNTUuODciLCJpYXQiOjE2MzE1ODA5MTAsImV4cCI6MTYzMTY2NzMxMH0.sokY4PkRgBVtiH5MP447Gz6lRPwOC_eS9OYrRzLzXnE&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjRmZTViM2ViMzFjMzQ4ZTU4OTYzZTQ0Y2QyMDE5MTY2IiwiY291bnRyeSI6IklEIiwidG9rZW4iOiI0eTQ1ZCIsIm1heF9kZXZpY2VzIjo0LCJpcCI6IjM2LjkwLjU1Ljg3Iiwic3RyZWFtX25hbWUiOiJ1c2Vlc3BvcnQyIiwic3RyZWFtIjoiVXNlZXNwb3J0cyAyIiwidHlwZSI6ImVuZHVzZXIiLCJ1YSI6IkRhbHZpay8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgNi4wLjE7IFJlZG1pIE5vdGUgMyBNSVVJL1YxMC4yLjEuMC5NSE9NSVhNKSIsImFzbiI6Ijc3MTMiLCJhc25fb3JnIjoiUFQgVGVsZWtvbXVuaWthc2kgSW5kb25lc2lhIiwiaWF0IjoxNjMxNTgwOTA5LCJleHAiOjE2MzE1ODEwMjl9.bk4AP5x5rs3RpclNJtL1YP_PpmaaqFPcDnv4chvDwxc
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",ALUZTV 1 144P  
 http://15.yaciaptk.xyz/live/97848484/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",ALUZ SPORTS 2 144P  
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",ALUZTV 2 144P  
 http://55.1-bour.xyz/live/122233888/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",ALUZ SPORTS 3 144P
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",ALUZTV 3 144P
 http://14.yaciaptk.xyz/live/819797877/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",BEIN SPORTS 1 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS 1 SD
 http://11.yaciaptk.xyz/live/31009988/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",BEIN SPORTS 2 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS 2 SD
 http://13.yaciaptk.xyz/live/4798998070/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",BEIN SPORTS 3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS 3 SD
 http://15.yaciaptk.xyz/live/551818447/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",BEIN SPORTS 4  
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS 4 SD
 http://55.abdakaroukhai.xyz/live/131326625/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",UFC CHANNEL
-http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",FOX SPORTS 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",FOX SPORTS 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",FOX SPORTS 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",TES 
-https://lb.serverkenceng.net/stream/useesport1/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",LA LIGA 2
-https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",PREMIER LEAGUE 1
-https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="VISION",PREMIER LEAGUE 2
-https://13.251.228.53:443/live-player/19/live.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",HBO PLUS
-http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/2179067
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS ARAB",BEIN SPORTS 1 HD
+http://yassooo.com:8080/benAlaa/829293992/80031
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS ARAB",BEIN SPORTS 2 HD
+http://yassooo.com:8080/benAlaa/829293992/80030
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS ARAB",BEIN SPORTS 3 HD
+http://yassooo.com:8080/benAlaa/829293992/80029
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS ARAB",BEIN SPORTS 4 HD
+http://yassooo.com:8080/benAlaa/829293992/80028
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS ARAB",BEIN SPORTS 5 HD
+http://yassooo.com:8080/benAlaa/829293992/80027
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS ARAB",BEIN SPORTS 6 HD
+http://yassooo.com:8080/benAlaa/829293992/80026
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS ARAB",BEIN SPORTS 7 HD
+http://yassooo.com:8080/benAlaa/829293992/80025
+
+######PENGETAHUAN########
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="PENGETAHUAN",OUTDOOR CHANNEL
+https://outdoorchannel-samsungau.amagi.tv/playlist360p.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="PENGETAHUAN",NATGEO GRAPHIC CHANNEL
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="PENGETAHUAN",TES 3
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="PENGETAHUAN",TES 4
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="PENGETAHUAN",TES 5
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="PENGETAHUAN",TES 6
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="PENGETAHUAN",TES 7
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="PENGETAHUAN",TES 8
+
+######VISION#######
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",HBO
+https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",FOX
 http://hypnotic-hosting.net:8080/Charlie/Charlie/166302
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",HBO HITS
