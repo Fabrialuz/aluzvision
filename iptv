@@ -44,7 +44,7 @@ http://tigerfights.xyz:80/SHAWN/SHAWN/1109827.ts
 #######SPORTS########
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS  PREMIUM 1 HD
-#http://77.83.117.60:8888//02_epl1_360p_UK/chunklist.m3u8
+#http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
 http://xcwsnl28.mrnova.online/live/60070_.m3u8?token=
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS PREMIUM 2 HD
 #http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
@@ -88,6 +88,22 @@ https://edgesports-sportstribal.amagi.tv/playlist240p.m3u8
 http://tigerfights.xyz:80/SHAWN/SHAWN/1109825.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",MNC SPORTS 2
 http://tigerfights.xyz:80/SHAWN/SHAWN/1109763.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",SOCCER CHANNEL HD
+http://103.146.185.235:8888/live/a/a22/14160.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",BEIN SPORTS 1 ID
+http://103.146.185.235:8888/live/a/a22/7.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",BEIN SPORTS 2 ID
+http://103.146.185.235:8888/live/a/a22/8.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",CHAMPIONS TV 1
+http://103.146.185.235:8888/live/a/a22/232.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",CHAMPIONS TV 2
+http://103.146.185.235:8888/live/a/a22/253.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",CHAMPIONS TV 3
+http://103.146.185.235:8888/live/a/a22/77.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",USEE SPORTS 1
+http://103.146.185.235:8888/live/a/a22/241.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",USEE SPORTS 2
+http://103.146.185.235:8888/live/a/a22/234.ts
 
 ######PENGETAHUAN########
 
