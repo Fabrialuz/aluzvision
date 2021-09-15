@@ -1,22 +1,15 @@
 #EXTM3U
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",ALUZ VISION
 https://ia601508.us.archive.org/9/items/epl1_20210908/Tak%20berjudul%2070_540p.mp4
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",ALUZ TV HD
-http://19.yaciaptk.xyz/live/6161655/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",ALUZ TV 1 SD
-http://11.yaciaptk.xyz/live/88824257/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",ALUZ TV 2 SD
-http://1.yaciaptk.xyz/live/79481245/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",ALUZ TV 3 SD
-http://5.yaciaptk.xyz/live/17988558/index.m3u8
-#######ALUZ VISION######
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",PREMIER LEAGUE 1 144P  
-http://15.yaciaptk.xyz/live/97848484/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",PREMIER LEAGUE 2 144P  
-http://55.1-bour.xyz/live/122233888/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",PREMIER LEAGUE 3 144P
-http://14.yaciaptk.xyz/live/819797877/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",ALUZ TV 1
+http://8.alysineoura.xyz/live/88824257/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",ALUZ TV 2
+http://14.alysineoura.xyz/live/79481245/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ALUZ VISION",ALUZ TV 3
+http://19.alysineoura.xyz/live/17988558/index.m3u8
+
 ######NASIONAL#######
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",SCTV
@@ -46,30 +39,24 @@ https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",METRO TV
 https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",JTV
-https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",KOMPAS TV
-https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+http://tigerfights.xyz:80/SHAWN/SHAWN/1109827.ts
+
 #######SPORTS########
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ABU DHABI SPORTS 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ABU DHABI SPORTS 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ABU DHABI SPORTS 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",EDGE SPORTS
-https://edgesports-sportstribal.amagi.tv/playlist240p.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="USEE SPORTS",USEE SPORTS 1
-https://lb.serverkenceng.net/stream/useesport1/chunks.m3u8?nimblesessionid=2358066&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIxIDEyOjU0OjUwIEFNJmhhc2hfdmFsdWU9Z1pLTzNEM0dRdU0zNkxEMHFRZzhkZz09JmlkPTR5NDVkfDI5ZGVlODI3YmMzZjRkN2FiZWI5ZGQzMzkzOWI4Mzk5JnZhbGlkbWludXRlcz0xNDQw&asn=7713&lb=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxMzJmNjJiZThlY2EwOWRhNGU1ZmNkZCIsImRvbWFpbiI6ImVkZ2UxLnNlcnZlcmtlbmNlbmcubmV0IiwiaXAiOiIxMDAuMTAxLjIzOC4xNCIsInBvcnQiOiI4MDgxIiwib3JpZ2luX2lwIjoiMzYuOTAuNTUuODciLCJpYXQiOjE2MzE1ODA4OTIsImV4cCI6MTYzMTY2NzI5Mn0.IS1-YNscGM31B4tINUm4N-8AtURQzHmq1Gl40xl2KpI&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjI5ZGVlODI3YmMzZjRkN2FiZWI5ZGQzMzkzOWI4Mzk5IiwiY291bnRyeSI6IklEIiwidG9rZW4iOiI0eTQ1ZCIsIm1heF9kZXZpY2VzIjo0LCJpcCI6IjM2LjkwLjU1Ljg3Iiwic3RyZWFtX25hbWUiOiJ1c2Vlc3BvcnQxIiwic3RyZWFtIjoiVXNlZXNwb3J0cyAxIiwidHlwZSI6ImVuZHVzZXIiLCJ1YSI6IkRhbHZpay8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgNi4wLjE7IFJlZG1pIE5vdGUgMyBNSVVJL1YxMC4yLjEuMC5NSE9NSVhNKSIsImFzbiI6Ijc3MTMiLCJhc25fb3JnIjoiUFQgVGVsZWtvbXVuaWthc2kgSW5kb25lc2lhIiwiaWF0IjoxNjMxNTgwODkwLCJleHAiOjE2MzE1ODEwMTB9.RM7pJKsJu96eNWlp_5B4FXS0e-5wnobDJmC5kItvMys
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="USEE SPORTS",USEE SPORTS 2
-https://lb.serverkenceng.net/stream/useesport2/chunks.m3u8?nimblesessionid=2358124&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIxIDEyOjU1OjA5IEFNJmhhc2hfdmFsdWU9L0JGWXdKMkR0V2g4Q3FnL3htb0pFdz09JmlkPTR5NDVkfDRmZTViM2ViMzFjMzQ4ZTU4OTYzZTQ0Y2QyMDE5MTY2JnZhbGlkbWludXRlcz0xNDQw&asn=7713&lb=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxMzJmNjJiZThlY2EwOWRhNGU1ZmNkZCIsImRvbWFpbiI6ImVkZ2UxLnNlcnZlcmtlbmNlbmcubmV0IiwiaXAiOiIxMDAuMTAxLjIzOC4xNCIsInBvcnQiOiI4MDgxIiwib3JpZ2luX2lwIjoiMzYuOTAuNTUuODciLCJpYXQiOjE2MzE1ODA5MTAsImV4cCI6MTYzMTY2NzMxMH0.sokY4PkRgBVtiH5MP447Gz6lRPwOC_eS9OYrRzLzXnE&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjRmZTViM2ViMzFjMzQ4ZTU4OTYzZTQ0Y2QyMDE5MTY2IiwiY291bnRyeSI6IklEIiwidG9rZW4iOiI0eTQ1ZCIsIm1heF9kZXZpY2VzIjo0LCJpcCI6IjM2LjkwLjU1Ljg3Iiwic3RyZWFtX25hbWUiOiJ1c2Vlc3BvcnQyIiwic3RyZWFtIjoiVXNlZXNwb3J0cyAyIiwidHlwZSI6ImVuZHVzZXIiLCJ1YSI6IkRhbHZpay8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgNi4wLjE7IFJlZG1pIE5vdGUgMyBNSVVJL1YxMC4yLjEuMC5NSE9NSVhNKSIsImFzbiI6Ijc3MTMiLCJhc25fb3JnIjoiUFQgVGVsZWtvbXVuaWthc2kgSW5kb25lc2lhIiwiaWF0IjoxNjMxNTgwOTA5LCJleHAiOjE2MzE1ODEwMjl9.bk4AP5x5rs3RpclNJtL1YP_PpmaaqFPcDnv4chvDwxc
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS  PREMIUM 1 HD
+http://15.alysineoura.xyz/live/6161655/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS PREMIUM 2 HD
+http://6.alysineoura.xyz/live/616194987/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS PREMIUM 3 HD
+http://19.alysineoura.xyz/live/6151278887/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS 1 SD
-http://11.yaciaptk.xyz/live/31009988/index.m3u8
+http://20.alysineoura.xyz/live/978488877/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS 2 SD
-http://13.yaciaptk.xyz/live/4798998070/index.m3u8
+http://19.alysineoura.xyz/live/10011244/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS 3 SD
-http://15.yaciaptk.xyz/live/551818447/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS 4 SD
-http://55.abdakaroukhai.xyz/live/131326625/index.m3u8
+http://9.alysineoura.xyz/live/161988840/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS XTRA 1
+http://11.alysineoura.xyz/live/500025558/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 HD
 http://yassooo.com:8080/benAlaa/829293992/80031
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 HD
@@ -84,7 +71,24 @@ http://yassooo.com:8080/benAlaa/829293992/80027
 http://yassooo.com:8080/benAlaa/829293992/80026
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS HD",BEIN SPORTS 7 HD
 http://yassooo.com:8080/benAlaa/829293992/80025
+
+######SPORTS 2#########
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ABU DHABI SPORTS 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",EDGE SPORTS
+https://edgesports-sportstribal.amagi.tv/playlist240p.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",MNC SPORTS 
+http://tigerfights.xyz:80/SHAWN/SHAWN/1109825.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",MNC SPORTS 2
+http://tigerfights.xyz:80/SHAWN/SHAWN/1109763.ts
+
 ######PENGETAHUAN########
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="PENGETAHUAN",OUTDOOR CHANNEL
 https://outdoorchannel-samsungau.amagi.tv/playlist360p.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="PENGETAHUAN",NATGEO GRAPHIC CHANNEL
@@ -100,17 +104,22 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="PENGETAHUAN",TES 7
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="PENGETAHUAN",TES 8
-######VISION#######
+
+######MOVIE#######
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",HBO
 https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",FOX
-http://hypnotic-hosting.net:8080/Charlie/Charlie/166302
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",HBO SIGNATURE
+http://tigerfights.xyz:80/SHAWN/SHAWN/1109883.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",HBO HITS
-http://hypnotic-hosting.net:8080/Charlie/Charlie/166238
+http://tigerfights.xyz:80/SHAWN/SHAWN/1109884.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",HBO FAMILY
 https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",FOX 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE",HBO CINEMAX
+http://tigerfights.xyz:80/SHAWN/SHAWN/1109889.ts
+
 ######CARTOON######
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="CARTOON",DISNEY
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="CARTOON",SPACETOON
