@@ -8,19 +8,17 @@ http://23.88.39.168/live/616194987/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",MOLA TV 3 HD
 http://23.88.39.168/live/6151278887/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS PREMIUM 1 SD
-http://23.88.39.168/live/88824257/index.m3u8
+http://23.88.32.234/live/8882425700/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS PREMIUM 2 SD
-http://23.88.39.168/live/79481245/index.m3u8
+http://23.88.32.234/live/7948124500/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS PREMIUM 3 SD
-http://23.88.39.168/live/17988558/index.m3u8
+http://23.88.32.234/live/1798855800/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS PREMIUM 1 HD
-#http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
-http://104.18.2.224/live/60070_.m3u8?token=
+http://23.88.32.234/live/616165500/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS PREMIUM 2 HD
-#http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
-http://104.18.2.224/live/60071_.m3u8?token=
+http://23.88.32.234/live/61619498700/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS PREMIUM 3 HD
-http://104.18.2.224/live/60072_.m3u8?token=
+http://23.88.32.234/live/615127888700/index.m3u8p
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS 1 SD
 http://23.88.39.168/live/978488877/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS 2 SD
