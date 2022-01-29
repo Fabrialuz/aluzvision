@@ -33,9 +33,9 @@ https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",MNCTV
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TRANS TV
-http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
+http://103.30.87.238:443/terial6839/7883/26
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TRANS 7
-http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
+http://103.30.87.238:443/terial6839/7883/27
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INEWS
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",BERITA SATU
@@ -66,6 +66,10 @@ https://edgesports-sportstribal.amagi.tv/playlist240p.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",CHAMPIONS 1 
 http://103.30.87.238:443/terial6839/7883/1304
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",CHAMPIONS 2
-http://104.21.235.98:80/SHAWN/SHAWN/1109763.ts
-
-
+http://103.30.87.238:443/terial6839/7883/1305
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",CHAMPIONS 3
+http://103.30.87.238:443/terial6839/7883/1306
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",USEE SPORT 1
+http://103.30.87.238:443/terial6839/7883/1376
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",USEE SPORT 2
+http://103.30.87.238:443/terial6839/7883/1377
