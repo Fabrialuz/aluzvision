@@ -23,9 +23,9 @@ http://23.88.39.168/live/161988840/index.m3u8
 ######NASIONAL#######
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999 
+http://103.30.87.238:443/terial6839/7883/907
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",SCTV
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+http://103.30.87.238:443/terial6839/7883/890
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",RCTI
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",GTV
@@ -41,7 +41,7 @@ https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",ANTV
-https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+http://103.30.87.238:443/terial6839/7883/891
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TVONE
 http://210.210.155.35/session/93f14adc-5fd8-11ec-b0ea-97209d27ae73/qwr9ew/s/s105/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",NET TV
