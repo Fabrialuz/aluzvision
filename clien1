@@ -7,12 +7,6 @@ http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/688156
 http://d.banourahga.xyz/live/794812458/index.m3u8?t=jfPs3-aC0N7IIuZnS2YPnw&e=1643518833
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS PREMIUM 3 SD
 http://d.banourahga.xyz/live/179885588/index.m3u8?t=8NnfNmn0hL7F8m11DZotCQ&e=1643518864
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS PREMIUM 1 HD
-https://delivery.macan.network/stream/macan_sport_3/playlist.m3u8?token=4qat2by&v=20200807
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS PREMIUM 2 HD
-http://i15.yacinelivetv.com/live/6161949878/index.m3u8?t=wmw-sqHUhlLFx_5ERaBH6w&e=1643503695
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS PREMIUM 3 HD
-http://i11.yacinelivetv.com/live/61512788878/index.m3u8?t=mjsAKHi_FbkamS6bJiL_ig&e=1643503714
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS 1 SD
 http://i5.yacinelivetv.com/live/978488877005/index.m3u8?t=12i9TS7-KTc6epGR1BXrNg&e=1643503095
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="BEIN SPORTS",BEIN SPORTS 2 SD
@@ -72,6 +66,16 @@ http://103.30.87.238:443/terial6839/7883/1305
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",CHAMPIONS 3
 http://103.30.87.238:443/terial6839/7883/1306
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",USEE SPORT 1
-https://20.44.232.225/stream/useesport1/chunks.m3u8?nimblesessionid=27834321&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIyIDQ6Mjc6NTQgQU0maGFzaF92YWx1ZT1DQW9lOFh4bnFNWk5SMDlUcnBwNWdBPT0maWQ9NHFhdDJieXw2YjAyODE2YzY5OWM0NTJhYmQ5NWEzMzc3ZmE0ZmYxNiZ2YWxpZG1pbnV0ZXM9MTQ0MA==&asn=7713&lb=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxMzJmNjJiZThlY2EwOWRhNGU1ZmNkZCIsImRvbWFpbiI6ImVkZ2UxLnNlcnZlcmtlbmNlbmcubmV0IiwiaXAiOiIxMDAuMTAxLjIzOC4xNCIsInBvcnQiOiI5MDAwIiwib3JpZ2luX2lwIjoiMzYuOTAuNTMuMTgyIiwiaWF0IjoxNjQzNTE2ODc0LCJleHAiOjE2NDM2MDMyNzR9.Vlq8Kphz6rB6IErBSSW4cyC-5bouX9KnEa5N5UdCWkE&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZiMDI4MTZjNjk5YzQ1MmFiZDk1YTMzNzdmYTRmZjE2IiwiY291bnRyeSI6IklEIiwidG9rZW4iOiI0cWF0MmJ5IiwibWF4X2RldmljZXMiOjEsImlwIjoiMzYuOTAuNTMuMTgyIiwic3RyZWFtX25hbWUiOiJ1c2Vlc3BvcnQxIiwic3RyZWFtIjoiVXNlZXNwb3J0cyAxIiwidHlwZSI6ImVuZHVzZXIiLCJ1YSI6ImNsaWVuMSIsImFzbiI6Ijc3MTMiLCJhc25fb3JnIjoiUFQgVGVsZWtvbXVuaWthc2kgSW5kb25lc2lhIiwiaWF0IjoxNjQzNTE2ODc0LCJleHAiOjE2NDM1MTY5OTR9.1kpFKvzHntfH--d-FnLNhIsk9QSpuTrG60CK5ig_PPY
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",USEE SPORT 2
-https://lb.serverkenceng.net/stream/useesport2/chunks.m3u8?nimblesessionid=27834338&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIyIDQ6Mjg6MDEgQU0maGFzaF92YWx1ZT04a3pZdHRrZWQ3SGRuTW55YkwrRXpBPT0maWQ9NHFhdDJieXwwMWFhM2VkNTQzMmY0NTI1YmFkNjlmNTcyNmM4YTRkMyZ2YWxpZG1pbnV0ZXM9MTQ0MA==&asn=7713&lb=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxMzJmNjJiZThlY2EwOWRhNGU1ZmNkZCIsImRvbWFpbiI6ImVkZ2UxLnNlcnZlcmtlbmNlbmcubmV0IiwiaXAiOiIxMDAuMTAxLjIzOC4xNCIsInBvcnQiOiI5MDAwIiwib3JpZ2luX2lwIjoiMzYuOTAuNTMuMTgyIiwiaWF0IjoxNjQzNTE2ODgxLCJleHAiOjE2NDM2MDMyODF9.irVisgOyyOx1giyO4X6nT-O0Z4jP4DWivlPK8wbSxCQ&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAxYWEzZWQ1NDMyZjQ1MjViYWQ2OWY1NzI2YzhhNGQzIiwiY291bnRyeSI6IklEIiwidG9rZW4iOiI0cWF0MmJ5IiwibWF4X2RldmljZXMiOjEsImlwIjoiMzYuOTAuNTMuMTgyIiwic3RyZWFtX25hbWUiOiJ1c2Vlc3BvcnQyIiwic3RyZWFtIjoiVXNlZXNwb3J0cyAyIiwidHlwZSI6ImVuZHVzZXIiLCJ1YSI6ImNsaWVuMSIsImFzbiI6Ijc3MTMiLCJhc25fb3JnIjoiUFQgVGVsZWtvbXVuaWthc2kgSW5kb25lc2lhIiwiaWF0IjoxNjQzNTE2ODgxLCJleHAiOjE2NDM1MTcwMDF9.dFvB84U588H4nZiXSwITcc7Aw1Umyn5RHhPmhv-D__8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",SPO TV 1
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",SPO TV 2
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",MNC SPORTS 1
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",MNC SPORTS 2
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",INDOSIAR LIGA 1
+
