@@ -30,13 +30,13 @@ https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 https://delivery.serveraku-rasyid.xyz/stream/id_beritasatu/playlist.m3u8?token=0h99g77&v=20200807
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",ANTV
-https://delivery.serveraku-rasyid.xyz/stream/id_antv/playlist.m3u8?token=0h99g77&v=20200807
+https://lb.serverkenceng.net/stream/antv/chunks.m3u8?nimblesessionid=29111673&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjIgNDowNDoyMyBQTSZoYXNoX3ZhbHVlPThKNFFVdnpUQ2pacUZJbDNmVkpGZFE9PSZpZD0waDk5Zzc3fDAwNWVlZTA1N2UyMTRhZDlhYTllMzIwM2YyM2YzYjljJnZhbGlkbWludXRlcz0xNDQw&asn=7713&lb=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxMzJmNjJiZThlY2EwOWRhNGU1ZmNkZCIsImRvbWFpbiI6ImVkZ2UxLnNlcnZlcmtlbmNlbmcubmV0IiwiaXAiOiIxMDAuMTAxLjIzOC4xNCIsInBvcnQiOiI5MDAwIiwib3JpZ2luX2lwIjoiMzYuOTAuNTUuMTUxIiwiaWF0IjoxNjQzOTkwNjYzLCJleHAiOjE2NDQwNzcwNjN9.Lr18FRHHhhkm27t9at32zMJ0Ys4BWIN_I1T4xQkKXGo&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAwNWVlZTA1N2UyMTRhZDlhYTllMzIwM2YyM2YzYjljIiwiY291bnRyeSI6IklEIiwidG9rZW4iOiIwaDk5Zzc3IiwibWF4X2RldmljZXMiOjEsImlwIjoiMzYuOTAuNTUuMTUxIiwic3RyZWFtX25hbWUiOiJhbnR2Iiwic3RyZWFtIjoiQU5UViIsInR5cGUiOiJlbmR1c2VyIiwidWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ny4wLjQ2OTIuOTkgU2FmYXJpLzUzNy4zNiBPUFIvODMuMC40MjU0LjI3IiwiYXNuIjoiNzcxMyIsImFzbl9vcmciOiJQVCBUZWxla29tdW5pa2FzaSBJbmRvbmVzaWEiLCJpYXQiOjE2NDM5OTA2NjMsImV4cCI6MTY0Mzk5MDc4M30.eSaPB2-Ovzl9fkv11LlyhRWcWjwbEi6_yceVqXU7ByE
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TVONE
-https://goldenlivektv.com/Live_TV/Channel_Tvone.m3u8
+https://lb.serverkenceng.net/stream/tvone/chunks.m3u8?nimblesessionid=29111065&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjIgNDowMToyMyBQTSZoYXNoX3ZhbHVlPTNFMW53TnM5VEhkMmtBeGJMWTZjUVE9PSZpZD0waDk5Zzc3fDNmOTc5ZjM3MDJkYTRhNmE4NzcwZThkZTA0N2Y3MGIwJnZhbGlkbWludXRlcz0xNDQw&asn=7713&lb=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxMzJmNjJiZThlY2EwOWRhNGU1ZmNkZCIsImRvbWFpbiI6ImVkZ2UxLnNlcnZlcmtlbmNlbmcubmV0IiwiaXAiOiIxMDAuMTAxLjIzOC4xNCIsInBvcnQiOiI5MDAwIiwib3JpZ2luX2lwIjoiMzYuOTAuNTUuMTUxIiwiaWF0IjoxNjQzOTkwNDgzLCJleHAiOjE2NDQwNzY4ODN9.ebKKaZ1rEPeErLaiQZUEURq1-WYF-csqnD1gZgFr2Ys&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjNmOTc5ZjM3MDJkYTRhNmE4NzcwZThkZTA0N2Y3MGIwIiwiY291bnRyeSI6IklEIiwidG9rZW4iOiIwaDk5Zzc3IiwibWF4X2RldmljZXMiOjEsImlwIjoiMzYuOTAuNTUuMTUxIiwic3RyZWFtX25hbWUiOiJ0dm9uZSIsInN0cmVhbSI6IlRWT25lIiwidHlwZSI6ImVuZHVzZXIiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk3LjAuNDY5Mi45OSBTYWZhcmkvNTM3LjM2IE9QUi84My4wLjQyNTQuMjciLCJhc24iOiI3NzEzIiwiYXNuX29yZyI6IlBUIFRlbGVrb211bmlrYXNpIEluZG9uZXNpYSIsImlhdCI6MTY0Mzk5MDQ4MywiZXhwIjoxNjQzOTkwNjAzfQ.4AXlrIGAmsmeN0fe-NyrR2zMYxgtFX6cfcvJH2T84s4
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",METRO TV
-https://delivery.serveraku-rasyid.xyz/stream/id_metrotv/playlist.m3u8?token=0h99g77&v=20200807
+https://lb.serverkenceng.net/stream/metrotv_hd/chunks.m3u8?nimblesessionid=29111434&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjIgNDowMzowNCBQTSZoYXNoX3ZhbHVlPWdpRzNxVTFpYmthWEJVRGpXSzAxc0E9PSZpZD0waDk5Zzc3fGFmYWRmMTFlZDA0NTQ5YjVhYTYyY2IxNjUxOGQzM2JlJnZhbGlkbWludXRlcz0xNDQw&asn=7713&lb=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxMzJmNjJiZThlY2EwOWRhNGU1ZmNkZCIsImRvbWFpbiI6ImVkZ2UxLnNlcnZlcmtlbmNlbmcubmV0IiwiaXAiOiIxMDAuMTAxLjIzOC4xNCIsInBvcnQiOiI5MDAwIiwib3JpZ2luX2lwIjoiMzYuOTAuNTUuMTUxIiwiaWF0IjoxNjQzOTkwNTg0LCJleHAiOjE2NDQwNzY5ODR9.luMW7hfOHTlkjwpJGy6L5-TRfgmvJQR-7GmPcKS2SJo&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFmYWRmMTFlZDA0NTQ5YjVhYTYyY2IxNjUxOGQzM2JlIiwiY291bnRyeSI6IklEIiwidG9rZW4iOiIwaDk5Zzc3IiwibWF4X2RldmljZXMiOjEsImlwIjoiMzYuOTAuNTUuMTUxIiwic3RyZWFtX25hbWUiOiJtZXRyb3R2X2hkIiwic3RyZWFtIjoiTUVUUk8gVFYiLCJ0eXBlIjoiZW5kdXNlciIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTcuMC40NjkyLjk5IFNhZmFyaS81MzcuMzYgT1BSLzgzLjAuNDI1NC4yNyIsImFzbiI6Ijc3MTMiLCJhc25fb3JnIjoiUFQgVGVsZWtvbXVuaWthc2kgSW5kb25lc2lhIiwiaWF0IjoxNjQzOTkwNTg0LCJleHAiOjE2NDM5OTA3MDR9.a6YDWJUG64EKy1BxojaYOycfodRrf5mQp1juZRyAM1Y
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",JTV
 http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60461
@@ -238,4 +238,98 @@ https://delivery.serveraku-rasyid.xyz/stream/id_afc/playlist.m3u8?token=0h99g77&
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", TES 41
 https://tinyurl.com/usesport1
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",1
+http://tvnid.wapgem.com/vidio/1.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 2
+http://tvnid.wapgem.com/vidio/2.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 3
+http://tvnid.wapgem.com/vidio/3.m3u8
+ 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 4
+http://tvnid.wapgem.com/vidio/4.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 5
+http://tvnid.wapgem.com/vidio/5.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 6
+http://tvnid.wapgem.com/vidio/6.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 7
+http://tvnid.wapgem.com/vidio/7.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 8
+http://tvnid.wapgem.com/vidio/8.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 9
+http://tvnid.wapgem.com/vidio/9.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 10
+http://tvnid.wapgem.com/vidio/10.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 11
+http://tvnid.wapgem.com/vidio/11.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 12
+http://tvnid.wapgem.com/vidio/12.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 13
+http://tvnid.wapgem.com/vidio/13.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 14
+http://tvnid.wapgem.com/vidio/14.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 15
+http://tvnid.wapgem.com/vidio/15.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 16
+http://tvnid.wapgem.com/vidio/16.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 17
+http://tvnid.wapgem.com/vidio/17.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 18
+http://tvnid.wapgem.com/vidio/18.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 19
+http://tvnid.wapgem.com/vidio/19.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
+ 20
+http://tvnid.wapgem.com/vidio/20.m3u8
+
+
+
 
