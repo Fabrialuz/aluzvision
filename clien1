@@ -69,10 +69,10 @@ https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TES TV ONE
-http://tvnid.wapgem.com/vidio/14.m3u8
+http://187.94.148.10:8090/play/a00n/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TES ANTV
-http://tvnid.wapgem.com/vidio/15.m3u8
+https://list.iptvcat.com/my_list/s/c1b93096616fe807ea4317414c00feb1.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",AL QURAN CHANNEL
 https://iptv.mwafa.net/vidio/6852/index.m3u8?token=1999
