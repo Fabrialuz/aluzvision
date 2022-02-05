@@ -53,7 +53,7 @@ https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",KOMPAS TV
 https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",KOMPAS TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",OFF
 https://delivery.serveraku-rasyid.xyz/stream/id_nettv/playlist.m3u8?token=0h99g77&v=20200807
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TVRI
@@ -107,10 +107,10 @@ http://tvnid.wapgem.com/vidio/8.m3u8
 http://tvnid.wapgem.com/vidio/9.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",USEE SPORT 1
-http://gumisasak-vision.online/TestUSEETOKEN/chunklist3.m3u8?auth=4f5a883d89119e6e27b65af13ba7ad8e660515da&id=useesport&gumisasakTV=default&sync=0
+https://dik.si/SEuseeSport1?itilss.m3u
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",USEE SPORT 2
-http://www.goldentv.tech:25461/live/Perfecto/170721/22973.m3u8
+https://dik.si/SEuseeSPorts_2?itilss.m3u
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",SPO TV 1
 https://wopep.com/02_foxsport_720p/chunklist.m3u8
