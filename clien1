@@ -26,9 +26,6 @@ https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INEWS
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",BERITA SATU
-https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",ANTV
 https://etslive-2-vidio-com.akamaized.net/exp=1644040486~acl=/hls-p/ingest_782_*/*~hmac=852c93dfd454bd0d0e578e1f4e83f0525ad822c482fc16b74b7fb03cd63cde12/hls-p/ingest_782_360p/index.m3u8
 
@@ -53,9 +50,6 @@ https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",KOMPAS TV
 https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",OFF
-https://delivery.serveraku-rasyid.xyz/stream/id_nettv/playlist.m3u8?token=0h99g77&v=20200807
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TVRI
 https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999
 
@@ -68,6 +62,9 @@ https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TVRI SPORT
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",BERITA SATU
+https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TES TV ONE
 http://187.94.148.10:8090/play/a00n/index.m3u8?checkedby:iptvcat.com
 
@@ -77,8 +74,8 @@ https://list.iptvcat.com/my_list/s/c1b93096616fe807ea4317414c00feb1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",AL QURAN CHANNEL
 https://iptv.mwafa.net/vidio/6852/index.m3u8?token=1999
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",DUNIA LAIN
-http://goldenlivektv.com/useetv/Khoerul_Television.m3u8?id=dunialain
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",OFF
+https://delivery.serveraku-rasyid.xyz/stream/id_nettv/playlist.m3u8?token=0h99g77&v=20200807
 
 #######SPORTS########
 
@@ -268,3 +265,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="HOME TV",ROCK X
 http://goldenlivektv.com/useetv/Khoerul_Television.m3u8?id=blueantextreme
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="HONE TV",DUNIA LAIN
+http://goldenlivektv.com/useetv/Khoerul_Television.m3u8?id=dunialain
+
