@@ -243,8 +243,8 @@ https://delivery.serveraku-rasyid.xyz/stream/bbc_earth/playlist.m3u8?token=0h99g
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", AFC
 https://delivery.serveraku-rasyid.xyz/stream/id_afc/playlist.m3u8?token=0h99g77&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", TES 41
-https://www.hlsplayer.net/#type=m3u8&src=http%3A%2F%2Fk3.yacinelivetv.com%3A80%2Flive%2F88824%2Findex.m3u8%3Ft%3D5gDVxGvwixXPsSZx2qjMMA%26e%3D1644079340
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", ben1
+http://red.ipfox.org:8080/1234/12345678/31603
 
 ##############CANAL TV##################
 
