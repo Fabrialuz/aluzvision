@@ -16,7 +16,8 @@ https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",GTV
-https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1000,NAME=360p,RESOLUTION=640x360,PROGRAM-SERVER=@KHOERUL_TELEVISION
+https://gtv-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",MNCTV
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
