@@ -29,10 +29,10 @@ https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",ANTV
-https://etslive-2-vidio-com.akamaized.net/exp=1644040486~acl=/hls-p/ingest_782_*/*~hmac=852c93dfd454bd0d0e578e1f4e83f0525ad822c482fc16b74b7fb03cd63cde12/hls-p/ingest_782_360p/index.m3u8
+http://tvnid.wapgem.com/vidio/13.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TVONE
-https://etslive-2-vidio-com.akamaized.net/exp=1644040498~acl=/hls-p/ingest_783_*/*~hmac=60aabf3a1091f95bf56743cf3d1d8d49bdcb79cc0cdb15e15da44604aa7bf458/hls-p/ingest_783_360p/index.m3u8
+http://tvnid.wapgem.com/vidio/14.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",METRO TV
 https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
