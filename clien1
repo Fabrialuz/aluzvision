@@ -9,12 +9,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",RCTI
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=400,NAME=360p,RESOLUTION=640x360,PROGRAM-SERVER=@KHOERUL_TELEVISION
-https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",GTV
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1000,NAME=360p,RESOLUTION=640x360,PROGRAM-SERVER=@KHOERUL_TELEVISION
-https://gtv-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
+https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",MNCTV
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
@@ -29,22 +27,19 @@ https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",ANTV
-http://tvnid.wapgem.com/vidio/13.m3u8
+http://playlist.urfan.web.id:80/qwr9ew/s/s07/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TVONE
-http://tvnid.wapgem.com/vidio/14.m3u8
+http://playlist.urfan.web.id:80/qwr9ew/s/s07/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",METRO TV
-https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
+http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",JTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60461
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",RTV
 https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",NET TV
-https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",O CHANNEL
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
@@ -55,33 +50,58 @@ https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TVRI
 https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TVRI SPORT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",JAK TV
 https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TVRI SPORT
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",BERITA SATU
-https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TES TV ONE
-http://187.94.148.10:8090/play/a00n/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TES ANTV
-https://list.iptvcat.com/my_list/s/c1b93096616fe807ea4317414c00feb1.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",BALI TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",AL QURAN CHANNEL
 https://iptv.mwafa.net/vidio/6852/index.m3u8?token=1999
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",OFF
-https://delivery.serveraku-rasyid.xyz/stream/id_nettv/playlist.m3u8?token=0h99g77&v=20200807
+
+##############CANAL TV###################
+
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="HOME TV",GAME TV
+
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="HOME TV",USEE PHOTO
+
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="HOME TV",MAGNA TV
+
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="HOME TV",MUSIC TV
+
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="HOME TV",KPLUS
+
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="HOME TV",ROCK X
+
+http://goldenlivektv.com/useetv/Khoerul_Television.m3u8?id=blueantextreme
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="HOME TV",DUNIA LAIN
+
+http://goldenlivektv.com/useetv/Khoerul_Television.m3u8?id=dunialain
 
 #######SPORTS########
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",LIGA 1 INDONESIA
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",INDOSIAR LIGA 1
 http://tvnid.wapgem.com/vidio/1.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",ABU DHABI SPORTS 1
@@ -96,13 +116,13 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",EDGE SPORTS
 https://edgesports-sportstribal.amagi.tv/playlist240p.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",CHAMPIONS 1 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",CHAMPIONS TV 1 
 http://tvnid.wapgem.com/vidio/7.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",CHAMPIONS 2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",CHAMPIONS TV 2
 http://tvnid.wapgem.com/vidio/8.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",CHAMPIONS 3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",CHAMPIONS TV 3
 http://tvnid.wapgem.com/vidio/9.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",USEE SPORT 1
@@ -115,19 +135,22 @@ https://dik.si/SEuseeSPorts_2?itilss.m3u
 https://wopep.com/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",SPO TV 2
-https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8?shareext/ts
+https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",MNC SPORTS
 http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60351
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",SOCCER CHANNEL
-http://k21.yacinelivetv.com/live/88824/index.m3u8?t=ZdyigOoImwkwgim35MbQZQ&e=1643962098
+http://red.ipfox.org:8080/1234/12345678/31600
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",BEIN SPORTS PREMIUM 1
-http://red.ipfox.org:8080/1234/12345678/31593
+http://red.ipfox.org:8080/1234/12345678/31603
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",BEIN SPORTS PREMIUM 2
-http://red.ipfox.org:8080/1234/12345678/31594
+http://red.ipfox.org:8080/1234/12345678/31604
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",BEIN SPORTS PREMIUM 3
+http://red.ipfox.org:8080/1234/12345678/31605
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",BEIN SPORTS 1
 http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60455
@@ -136,23 +159,12 @@ http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60455
 http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60284
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",WWE NETWORK
+
 http://93.152.174.144:4000/play/WWE/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS",EUROSPOTRS
 http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd?checkedby:iptvcat.com
 
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS", ASTRO SUPERSPORTS 1
-http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/1722
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS", ASTRO SUPERSPORTS 2
-http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/1721
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS", ASTRO SUPERSPORTS 3
-http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/1720
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="SPORTS", ASTRO SUPERSPORTS 4
-http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/1719
 
 #######Cartoon#######
 
@@ -177,9 +189,6 @@ http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd?checkedby:iptvcat.
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ANAK", NICKELODEON 
 http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="ANAK", DUNIA ANAK
-https://delivery.serveraku-rasyid.xyz/stream/duniaanak/playlist.m3u8?token=0h99g77&v=20200807
 
 
 ###########MOVIE#############
@@ -218,6 +227,7 @@ http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60458
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="MOVIE", HBO SIGNATURE
 http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60456 
 
+
 ###########EDUKASI#############
 
 
@@ -227,7 +237,7 @@ http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", NATGEO WILD 2
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", NATGEO WILD 3 IND
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", NATGEO WILD IND
 http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60484
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", ANIMAL PLANET 
@@ -236,37 +246,14 @@ http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60475
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", DISCOVERY ASIA 
 http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60376
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", HISTORY
-https://delivery.serveraku-rasyid.xyz/stream/history/playlist.m3u8?token=0h99g77&v=20200807
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", TES 1
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/1722
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", BBC EARTH
-https://delivery.serveraku-rasyid.xyz/stream/bbc_earth/playlist.m3u8?token=0h99g77&v=20200807
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", TES 2
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/1721
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", AFC
-https://delivery.serveraku-rasyid.xyz/stream/id_afc/playlist.m3u8?token=0h99g77&v=20200807
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", TES 3
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/1720
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", ben1
-http://red.ipfox.org:8080/1234/12345678/31603
-
-##############CANAL TV##################
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="HOME TV",GAME TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="HOME TV",USEE PHOTO
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="HOME TV",MAGNA TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="HOME TV",MUSIC TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="HOME TV",KPLUS
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="HOME TV",ROCK X
-http://goldenlivektv.com/useetv/Khoerul_Television.m3u8?id=blueantextreme
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="HONE TV",DUNIA LAIN
-http://goldenlivektv.com/useetv/Khoerul_Television.m3u8?id=dunialain
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="EDUKASI", TES 4
+http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/1719
