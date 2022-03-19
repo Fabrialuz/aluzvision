@@ -3,7 +3,7 @@
 ######NASIONAL#######
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",INDOSIAR
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+http://group2-swiftservesd-1.dens.tv/s/s04/01.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
@@ -27,7 +27,7 @@ https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",ANTV
-https://iptv.mwafa.net/vidio/203/index.m3u8?token=1999
+http://group2-swiftservesd-1.dens.tv/s/s07/01.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TVONE
 http://playlist.urfan.web.id:80/qwr9ew/s/s07/index.m3u8
@@ -36,7 +36,7 @@ http://playlist.urfan.web.id:80/qwr9ew/s/s07/index.m3u8
 http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",JTV
-http://mue03.wanicelife.com:8880/SWFAF123374/SC5BVU9E/60461
+https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",RTV
 https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
@@ -45,7 +45,7 @@ https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",KOMPAS TV
-https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
+http://group2-swiftservesd-1.dens.tv/s/s104/01.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CpnT1f7/ALUZ-VISION-PNG.png" group-title="LOKAL",TVRI
 https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999
